@@ -1,59 +1,31 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<h1>Education</h1>
+<ul>
+<li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (2021 - Present)<br>
+Supervisors: Prof. Gabor Fodor and Prof. Emil Björnson</li>
+<li><b>MSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (2019 - 2021)<br>
+Thesis: Optimal power allocation techniques for vector parameter estimation with Fisher information based objectives [<a href="http://dogagurgun.github.io/files/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
+Doğa Gürgünoğlu, Supervisor: Prof. Sinan Gezici.</li>
+<li><b>BSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (2015 - 2019)<br></li>
+</ul>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<br>
+<!----------------------------------------->
+<h1>Work Experience</h1>
+<ul>
+<li><b>Doctoral Student</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - Present)<br></li>
+<li><b>Software Design Engineer</b>, Aselsan Inc., Ankara, Turkey (June 2019 - August 2021)<br>
+Worked on the physical layer of 5G and O-RAN.</li>
+<li><b>Summer Internship</b>, Fraunhofer Institute for Integrated Circuits (IIS), Erlangen, Germany (June - September 2018)<br>
+Worked on subspace-based direction of arrival (DoA) estimation algorithms in the 2.4 GHz ISM Band.</li>
+<li><b>Summer Internship</b>, Polaran Ltd., Ankara, Turkey (August - September 2017)<br>
+Worked on the development of an end to end FPGA-based test system for polar codes. The system enables the user to pick the encoder/decoder architecture, channel model, modulation scheme, etc. and tests the performance of polar codes in terms of bit error rate (BER) and frame error rate (FER).</li>
+</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
