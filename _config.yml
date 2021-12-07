@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Doctoral Student at KTH Royal Institute of Technology"
   location         : "Stockholm, Sweden"
-  employer         : "KTH Royal Institute of Technology"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=1yJCccwAAAAJ&hl=en&oi=ao"
   email            : "dogag@kth.se"
   researchgate     : "https://www.researchgate.net/profile/Doga-Guerguenoglu"
@@ -93,22 +93,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/dgurgunoglu"
   foursquare       :
   github           : "dogagurgun"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/doginii_g/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dgurgunoglu/"
   orcid            : "http://orcid.org/0000-0001-5048-331X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/DogaGurgunoglu"
   vine             :
   weibo            :
   xing             :
