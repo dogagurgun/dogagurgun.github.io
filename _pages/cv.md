@@ -8,18 +8,19 @@ author_profile: true
 
 <h1>Education</h1>
 <ul>
-<li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (2021 - Present)<br>
+<li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - Present)<br>
 Supervisors: Prof. Gabor Fodor and Prof. Emil Björnson</li>
-<li><b>MSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (2019 - 2021)<br>
+<li><b>MSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (September 2019 - June 2021)<br>
 Thesis: Optimal power allocation techniques for vector parameter estimation with Fisher information based objectives [<a href="http://dogagurgun.github.io/files/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
 Doğa Gürgünoğlu, Supervisor: Prof. Sinan Gezici.</li>
-<li><b>BSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (2015 - 2019)<br></li>
+<li><b>BSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey ( August 2015 - August 2019)<br></li>
 </ul>
 
 <br>
 <!----------------------------------------->
 <h1>Work Experience</h1>
 <ul>
+<li><b>Research and Development Intern</b>, Ericsson Research AB, Stockholm, Sweden (November 2023 - Present)<br></li>
 <li><b>Doctoral Student</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - Present)<br></li>
 <li><b>Software Design Engineer</b>, Aselsan Inc., Ankara, Turkey (June 2019 - August 2021)<br>
 Worked on the physical layer of 5G and O-RAN.</li>
