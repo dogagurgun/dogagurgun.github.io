@@ -20,7 +20,7 @@ Doğa Gürgünoğlu, Supervisor: Prof. Sinan Gezici.</li>
 <!----------------------------------------->
 <h1>Work Experience</h1>
 <ul>
-<li><b>Doctoral Student</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - Present)<br></li>
+<li><b>Doctoral Researcher</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - Present)<br></li>
 <li><b>Research and Development Intern</b>, Ericsson Research AB, Stockholm, Sweden (November 2023 - June 2024)<br></li>
 <li><b>Software Design Engineer</b>, Aselsan Inc., Ankara, Turkey (June 2019 - August 2021)<br>
 Worked on the physical layer of 5G and O-RAN.</li>
