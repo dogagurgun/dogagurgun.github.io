@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 <p align="justify">
-I am an electrical engineer specialized in wireless communications and statistical signal processing. I received my Ph.D. in Electrical Engineering from KTH Royal Insitute of Technology in 2025, where I have worked as a doctoral researcher at the division of <a href="https://www.kth.se/dcs">Decision and Control Systems (DCS)</a> 
-in Stockholm, Sweden. I was supervised by <a href="https://www.kth.se/profile/gaborf">Adj. Prof. Gabor Fodor</a> and <a href="https://www.kth.se/profile/emilbjo">Prof. Emil Bj&ouml;rnson</a>. I was also a part of the Marie Skłodowska Curie project <a href="https://h2020-msca-itn-metawireless.cnit.it/">Meta Wirless - Future Wireless Communicaitons Empowered by Reconfigurable Intelligent Meta-Surfaces</a>, which is a multi-partner European Training Network (ETN) project. Prior to that, I was a master student at <a href="https://w3.bilkent.edu.tr">Bilkent University</a> (2019-2021), 
+I am an electrical engineer specializing in wireless communications and statistical signal processing. I received my Ph.D. in Electrical Engineering from KTH Royal Institute of Technology in 2025, where I have worked as a doctoral researcher at the division of <a href="https://www.kth.se/dcs">Decision and Control Systems (DCS)</a> 
+in Stockholm, Sweden. I was supervised by <a href="https://www.kth.se/profile/gaborf">Adj. Prof. Gabor Fodor</a> and <a href="https://www.kth.se/profile/emilbjo">Prof. Emil Bj&ouml;rnson</a>. I was also a part of the Marie Skłodowska Curie project <a href="https://h2020-msca-itn-metawireless.cnit.it/">Meta Wireless - Future Wireless Communications Empowered by Reconfigurable Intelligent Meta-Surfaces</a>, which is a multi-partner European Training Network (ETN) project. Before that, I was a master's student at <a href="https://w3.bilkent.edu.tr">Bilkent University</a> (2019-2021), 
 and a software design engineer at <a href="https://aselsan.com.tr/">Aselsan Inc.</a> (2019-2021).
 </p>
 
