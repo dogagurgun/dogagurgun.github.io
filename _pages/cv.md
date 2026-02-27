@@ -21,11 +21,8 @@ Doğa Gürgünoğlu, Supervisor: Prof. Sinan Gezici.</li>
 <ul>
 <li><b>Doctoral Researcher</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - March 2025)<br></li>
 <li><b>Research and Development Intern</b>, Ericsson Research AB, Stockholm, Sweden (November 2023 - June 2024)<br></li>
-<li><b>Software Design Engineer</b>, Aselsan Inc., Ankara, Turkey (June 2019 - August 2021)<br>
-Worked on the physical layer of 5G and O-RAN.</li>
-<li><b>Summer Internship</b>, Fraunhofer Institute for Integrated Circuits (IIS), Erlangen, Germany (June - September 2018)<br>
-Worked on subspace-based direction of arrival (DoA) estimation algorithms in the 2.4 GHz ISM Band.</li>
-<li><b>Summer Internship</b>, Polaran Ltd., Ankara, Turkey (August - September 2017)<br>
-Worked on the development of an end to end FPGA-based test system for polar codes. The system enables the user to pick the encoder/decoder architecture, channel model, modulation scheme, etc. and tests the performance of polar codes in terms of bit error rate (BER) and frame error rate (FER).</li>
+<li><b>Software Design Engineer</b>, Aselsan Inc., Ankara, Turkey (June 2019 - August 2021)</li>
+<li><b>Summer Internship</b>, Fraunhofer Institute for Integrated Circuits (IIS), Erlangen, Germany (June - September 2018)</li>
+<li><b>Summer Internship</b>, Polaran Ltd., Ankara, Turkey (August - September 2017)</li>
 </ul>
 
