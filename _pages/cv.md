@@ -7,7 +7,6 @@ author_profile: true
 {% include base_path %}
 
 <h1>Education</h1>
-<ul>
 <li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - March 2025)<be>
 Thesis: Channel Estimation and Interference Mitigation for Reconfigurable Intelligent Surfaces [<a href="http://dogagurgun.github.io/files/thesis/doctoral_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
 Doğa Gürgünoğlu, Supervisors: Adj. Prof. Gabor Fodor, Prof. Emil Björnson.</li>
@@ -15,7 +14,6 @@ Doğa Gürgünoğlu, Supervisors: Adj. Prof. Gabor Fodor, Prof. Emil Björnson.<
 Thesis: Optimal power allocation techniques for vector parameter estimation with Fisher information based objectives [<a href="http://dogagurgun.github.io/files/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
 Doğa Gürgünoğlu, Supervisor: Prof. Sinan Gezici.</li>
 <li><b>BSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey ( August 2015 - August 2019)<br></li>
-</ul>
 
 <br>
 <!----------------------------------------->
