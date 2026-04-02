@@ -9,16 +9,17 @@ author_profile: true
 <h1>Education</h1>
 <li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - March 2025)<be>
 Thesis: Channel Estimation and Interference Mitigation for Reconfigurable Intelligent Surfaces [<a href="http://dogagurgun.github.io/files/thesis/doctoral_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
-Doğa Gürgünoğlu, Supervisors: Adj. Prof. Gabor Fodor, Prof. Emil Björnson.</li>
+Supervisors: Adj. Prof. Gabor Fodor, Prof. Emil Björnson.</li>
 <li><b>MSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (September 2019 - June 2021)<br>
 Thesis: Optimal power allocation techniques for vector parameter estimation with Fisher information based objectives [<a href="http://dogagurgun.github.io/files/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
-Doğa Gürgünoğlu, Supervisor: Prof. Sinan Gezici.</li>
+Supervisor: Prof. Sinan Gezici.</li>
 <li><b>BSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey ( August 2015 - August 2019)<br></li>
 
 <br>
 <!----------------------------------------->
 <h1>Work Experience</h1>
 <ul>
+<li><b>Lead Systems Engineer</b>, Aselsan Inc., Ankara, Türkiye (April 2025 - Present)<br></li>
 <li><b>Doctoral Researcher</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - March 2025)<br></li>
 <li><b>Research and Development Intern</b>, Ericsson Research AB, Stockholm, Sweden (November 2023 - June 2024)<br></li>
 <li><b>Software Design Engineer</b>, Aselsan Inc., Ankara, Turkey (June 2019 - August 2021)</li>
