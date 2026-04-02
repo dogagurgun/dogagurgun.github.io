@@ -6,10 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Education</h1>
-<li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - March 2025)<be>
+<h1>Education</h1><li><b>PhD in Electrical Engineering</b>, KTH Royal Institute of Technology, Stockholm, Sweden (October 2021 - March 2025)<br>
 Thesis: Channel Estimation and Interference Mitigation for Reconfigurable Intelligent Surfaces [<a href="http://dogagurgun.github.io/files/thesis/doctoral_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
 Supervisors: Adj. Prof. Gabor Fodor, Prof. Emil Björnson.</li>
+
 <li><b>MSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey (September 2019 - June 2021)<br>
 Thesis: Optimal power allocation techniques for vector parameter estimation with Fisher information based objectives [<a href="http://dogagurgun.github.io/files/thesis/master_thesis.pdf" style="color:#64B2CB">pdf</a>]<br>
 Supervisor: Prof. Sinan Gezici.</li>
