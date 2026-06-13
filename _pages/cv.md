@@ -16,6 +16,18 @@ Supervisor: Prof. Sinan Gezici.</li>
 <li><b>BSc in Electrical and Electronics Engineering</b>, Bilkent University, Ankara, Turkey ( August 2015 - August 2019)<br></li>
 
 <br>
+<h1>Academic Service</h1>
+<h2>Editorial Service</h2>
+I have served as an editor for the following journals:
+<li><b>Associate Editor</b>, IEEE Wireless Communications Letters, (June 2026 - Present)<br></li>
+<h2>Peer Review</h2>
+I have served as a reviewer for the following journals:
+<li>IEEE Transactions on Wireless Communications<br></li>
+<li>IEEE Transactions on Communications<br></li>
+<li>IEEE Transactions on Vehicular Technology<br></li>
+<li>IEEE Wireless Communications Letters<br></li>
+<li>IEEE Communications Letters<br></li>
+
 <!----------------------------------------->
 <h1>Work Experience</h1>
 <ul>
